@@ -1,0 +1,10 @@
+openai-whisper
+torch
+pyaudio
+pynput
+langchain-ollama
+langchain-community
+langchain-text-splitters
+pypdf
+chromadb
+
